@@ -1,0 +1,11 @@
+information about all the commits and by whom 
+
+git log --all --graph
+
+create new branch
+
+git branch new_branch_name
+
+switch to new branch
+
+git checkout new_branch_name
