@@ -8,4 +8,8 @@ git branch new_branch_name
 
 switch to new branch
 
-git checkout new_branch_name
+git checkout new_branch_name 
+
+merge the branch first need to be in branch to which to merge in this case feature1 to master 
+
+git merge <new_branch_name> -m "commit_comment"
